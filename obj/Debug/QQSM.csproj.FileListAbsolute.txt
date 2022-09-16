@@ -1,0 +1,17 @@
+C:\Users\Juan Daniel\source\repos\QQSM\bin\Debug\QQSM.exe.config
+C:\Users\Juan Daniel\source\repos\QQSM\bin\Debug\QQSM.exe
+C:\Users\Juan Daniel\source\repos\QQSM\bin\Debug\QQSM.pdb
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.csproj.AssemblyReference.cache
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.FormLogin.resources
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.Properties.Resources.resources
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.csproj.GenerateResource.cache
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.csproj.CoreCompileInputs.cache
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.exe
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.pdb
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.FormRegister.resources
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.FormGame.resources
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.FormGame2.resources
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.FormGame3.resources
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.FormGame4.resources
+C:\Users\Juan Daniel\source\repos\QQSM\obj\Debug\QQSM.FormGame5.resources
