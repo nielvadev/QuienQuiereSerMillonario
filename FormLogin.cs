@@ -22,9 +22,9 @@ namespace QQSM
         public FormLogin()
         {
             InitializeComponent();
-            SoundPlayer Theme = new SoundPlayer();
+            /*SoundPlayer Theme = new SoundPlayer();
             Theme.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Theme.wav";
-            Theme.Play();
+            Theme.Play();*/
 
         }
 
@@ -35,9 +35,9 @@ namespace QQSM
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SoundPlayer Sele = new SoundPlayer();
+            /*SoundPlayer Sele = new SoundPlayer();
             Sele.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Select.wav";
-            Sele.Play();
+            Sele.Play();*/
             frmRegister.Show();
             this.Hide();
         }
@@ -49,9 +49,9 @@ namespace QQSM
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            SoundPlayer Sele = new SoundPlayer();
+            /*SoundPlayer Sele = new SoundPlayer();
             Sele.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Select.wav";
-            Sele.Play();
+            Sele.Play();*/
 
             cont = 0;
 

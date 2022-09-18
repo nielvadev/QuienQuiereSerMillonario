@@ -34,9 +34,9 @@ namespace QQSM
             btnCC.Visible = true;
             btnCall.Visible = true;
             btnChange.Visible = true;
-            SoundPlayer Preguntas = new SoundPlayer();
-            Preguntas.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Preguntas.wav";
-            Preguntas.Play();
+            //SoundPlayer Preguntas = new SoundPlayer();
+            //Preguntas.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Preguntas.wav";
+            //Preguntas.Play();
 
             Question1();
 
@@ -62,9 +62,9 @@ namespace QQSM
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            SoundPlayer Call = new SoundPlayer();
-            Call.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Call.wav";
-            Call.Play();
+            //SoundPlayer Call = new SoundPlayer();
+            //Call.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Call.wav";
+            //Call.Play();
 
             MessageBox.Show("Hola amigo, cómo estas? No recuerdo la fecha exacta, pero si estoy seguro que fue antes de 1500, por un señor don Cristobal. Suerte", "Tu amigo dice");
             btnCall.Visible = false;
@@ -86,9 +86,9 @@ namespace QQSM
             btnC.BackColor = Color.Blue;
             if (MessageBox.Show("¿Última Palabra?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
             {
-                SoundPlayer Win = new SoundPlayer();
-                Win.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Win.wav";
-                Win.Play();
+                //SoundPlayer Win = new SoundPlayer();
+                //Win.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Win.wav";
+                //Win.Play();
                 MessageBox.Show("¡ CORRECTO !", "Confirmación");
                 btnC.BackColor = Color.Green;
                 FormGame2 frmGame2 = new FormGame2();
@@ -107,9 +107,9 @@ namespace QQSM
             btnA.BackColor = Color.Blue;
             if (MessageBox.Show("¿Última Palabra?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
             {
-                SoundPlayer Lose = new SoundPlayer();
-                Lose.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Lose.wav";
-                Lose.Play();
+                //SoundPlayer Lose = new SoundPlayer();
+                //Lose.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Lose.wav";
+                //Lose.Play();
                 btnA.BackColor = Color.Red;
                 btnC.BackColor = Color.Green;
                 MessageBox.Show("¡ iNCORRECTO !", "Confirmación");
@@ -130,9 +130,9 @@ namespace QQSM
             btnB.BackColor = Color.Blue;
             if (MessageBox.Show("¿Última Palabra?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
             {
-                SoundPlayer Lose = new SoundPlayer();
-                Lose.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Lose.wav";
-                Lose.Play();
+                //SoundPlayer Lose = new SoundPlayer();
+                //Lose.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Lose.wav";
+                //Lose.Play();
                 btnB.BackColor = Color.Red;
                 btnC.BackColor = Color.Green;
                 MessageBox.Show("¡ iNCORRECTO !", "Confirmación");
@@ -153,9 +153,9 @@ namespace QQSM
             btnD.BackColor = Color.Blue;
             if (MessageBox.Show("¿Última Palabra?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
             {
-                SoundPlayer Lose = new SoundPlayer();
-                Lose.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Lose.wav";
-                Lose.Play();
+                //SoundPlayer Lose = new SoundPlayer();
+                //Lose.SoundLocation = "C:\\Users\\Juan Daniel\\source\\repos\\QQSM\\Resources\\Lose.wav";
+                //Lose.Play();
                 btnD.BackColor = Color.Red;
                 btnC.BackColor = Color.Green;
                 MessageBox.Show("¡ iNCORRECTO !", "Confirmación");
